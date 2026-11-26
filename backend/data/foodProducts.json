@@ -1,0 +1,1284 @@
+[
+  {
+    "id": 1,
+    "productName": "Biscuit A",
+    "brand": "Demo Foods",
+    "category": "Biscuits",
+    "subCategory": "Digestive",
+    "nutrition": {
+      "calories": 430,
+      "sugar": 8,
+      "totalFat": 12,
+      "saturatedFat": 5,
+      "transFat": 0,
+      "protein": 7,
+      "carbohydrates": 68,
+      "sodium": 180
+    },
+    "ingredients": [
+      "Whole wheat flour",
+      "Sugar",
+      "Vegetable oil"
+    ],
+    "allergens": [
+      "Wheat",
+      "Milk"
+    ],
+    "score": 89
+  },
+  {
+    "id": 2,
+    "productName": "Biscuit B",
+    "brand": "Demo Foods",
+    "category": "Biscuits",
+    "subCategory": "Cream",
+    "nutrition": {
+      "calories": 470,
+      "sugar": 24,
+      "totalFat": 20,
+      "saturatedFat": 10,
+      "transFat": 0,
+      "protein": 5,
+      "carbohydrates": 65,
+      "sodium": 240
+    },
+    "ingredients": [
+      "Refined flour",
+      "Sugar",
+      "Vegetable oil",
+      "Milk solids"
+    ],
+    "allergens": [
+      "Wheat",
+      "Milk"
+    ],
+    "score": 62
+  },
+  {
+    "id": 3,
+    "productName": "Biscuit C",
+    "brand": "Demo Foods",
+    "category": "Biscuits",
+    "subCategory": "Whole Wheat",
+    "nutrition": {
+      "calories": 410,
+      "sugar": 6,
+      "totalFat": 10,
+      "saturatedFat": 4,
+      "transFat": 0,
+      "protein": 8,
+      "carbohydrates": 66,
+      "sodium": 150
+    },
+    "ingredients": [
+      "Whole wheat flour",
+      "Jaggery",
+      "Vegetable oil"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 93
+  },
+  {
+    "id": 4,
+    "productName": "Biscuit D",
+    "brand": "Demo Foods",
+    "category": "Biscuits",
+    "subCategory": "Oat",
+    "nutrition": {
+      "calories": 405,
+      "sugar": 7,
+      "totalFat": 9,
+      "saturatedFat": 3,
+      "transFat": 0,
+      "protein": 9,
+      "carbohydrates": 64,
+      "sodium": 130
+    },
+    "ingredients": [
+      "Oats",
+      "Whole wheat flour",
+      "Sugar",
+      "Vegetable oil"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 92
+  },
+  {
+    "id": 5,
+    "productName": "Biscuit E",
+    "brand": "Demo Foods",
+    "category": "Biscuits",
+    "subCategory": "High Fiber",
+    "nutrition": {
+      "calories": 390,
+      "sugar": 5,
+      "totalFat": 8,
+      "saturatedFat": 3,
+      "transFat": 0,
+      "protein": 10,
+      "carbohydrates": 62,
+      "sodium": 125
+    },
+    "ingredients": [
+      "Whole wheat flour",
+      "Oat fiber",
+      "Sugar",
+      "Vegetable oil"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 96
+  },
+  {
+    "id": 6,
+    "productName": "Cookie A",
+    "brand": "Demo Foods",
+    "category": "Cookies",
+    "subCategory": "Chocolate",
+    "nutrition": {
+      "calories": 510,
+      "sugar": 28,
+      "totalFat": 25,
+      "saturatedFat": 13,
+      "transFat": 0,
+      "protein": 5,
+      "carbohydrates": 62,
+      "sodium": 210
+    },
+    "ingredients": [
+      "Refined flour",
+      "Sugar",
+      "Cocoa",
+      "Butter"
+    ],
+    "allergens": [
+      "Wheat",
+      "Milk"
+    ],
+    "score": 57
+  },
+  {
+    "id": 7,
+    "productName": "Cookie B",
+    "brand": "Demo Foods",
+    "category": "Cookies",
+    "subCategory": "Oat",
+    "nutrition": {
+      "calories": 460,
+      "sugar": 15,
+      "totalFat": 18,
+      "saturatedFat": 7,
+      "transFat": 0,
+      "protein": 7,
+      "carbohydrates": 65,
+      "sodium": 170
+    },
+    "ingredients": [
+      "Oats",
+      "Whole wheat flour",
+      "Sugar",
+      "Vegetable oil"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 76
+  },
+  {
+    "id": 8,
+    "productName": "Cookie C",
+    "brand": "Demo Foods",
+    "category": "Cookies",
+    "subCategory": "Plain",
+    "nutrition": {
+      "calories": 455,
+      "sugar": 16,
+      "totalFat": 17,
+      "saturatedFat": 6,
+      "transFat": 0,
+      "protein": 6,
+      "carbohydrates": 67,
+      "sodium": 155
+    },
+    "ingredients": [
+      "Whole wheat flour",
+      "Sugar",
+      "Vegetable oil"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 78
+  },
+  {
+    "id": 9,
+    "productName": "Cookie D",
+    "brand": "Demo Foods",
+    "category": "Cookies",
+    "subCategory": "Coconut",
+    "nutrition": {
+      "calories": 480,
+      "sugar": 20,
+      "totalFat": 21,
+      "saturatedFat": 9,
+      "transFat": 0,
+      "protein": 5,
+      "carbohydrates": 64,
+      "sodium": 180
+    },
+    "ingredients": [
+      "Refined flour",
+      "Sugar",
+      "Coconut",
+      "Vegetable oil"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 67
+  },
+  {
+    "id": 10,
+    "productName": "Cookie E",
+    "brand": "Demo Foods",
+    "category": "Cookies",
+    "subCategory": "Multigrain",
+    "nutrition": {
+      "calories": 440,
+      "sugar": 11,
+      "totalFat": 15,
+      "saturatedFat": 5,
+      "transFat": 0,
+      "protein": 8,
+      "carbohydrates": 63,
+      "sodium": 140
+    },
+    "ingredients": [
+      "Whole grains",
+      "Oats",
+      "Sugar",
+      "Vegetable oil"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 84
+  },
+  {
+    "id": 11,
+    "productName": "Cereal A",
+    "brand": "Demo Foods",
+    "category": "Breakfast Cereals",
+    "subCategory": "Corn Flakes",
+    "nutrition": {
+      "calories": 370,
+      "sugar": 8,
+      "totalFat": 1,
+      "saturatedFat": 0,
+      "transFat": 0,
+      "protein": 7,
+      "carbohydrates": 84,
+      "sodium": 700
+    },
+    "ingredients": [
+      "Corn",
+      "Sugar",
+      "Salt"
+    ],
+    "allergens": [],
+    "score": 92
+  },
+  {
+    "id": 12,
+    "productName": "Cereal B",
+    "brand": "Demo Foods",
+    "category": "Breakfast Cereals",
+    "subCategory": "Chocolate",
+    "nutrition": {
+      "calories": 410,
+      "sugar": 24,
+      "totalFat": 6,
+      "saturatedFat": 3,
+      "transFat": 0,
+      "protein": 6,
+      "carbohydrates": 78,
+      "sodium": 450
+    },
+    "ingredients": [
+      "Corn",
+      "Sugar",
+      "Cocoa",
+      "Salt"
+    ],
+    "allergens": [],
+    "score": 71
+  },
+  {
+    "id": 13,
+    "productName": "Cereal C",
+    "brand": "Demo Foods",
+    "category": "Breakfast Cereals",
+    "subCategory": "Oats",
+    "nutrition": {
+      "calories": 380,
+      "sugar": 5,
+      "totalFat": 7,
+      "saturatedFat": 1,
+      "transFat": 0,
+      "protein": 13,
+      "carbohydrates": 65,
+      "sodium": 20
+    },
+    "ingredients": [
+      "Oats"
+    ],
+    "allergens": [
+      "Gluten"
+    ],
+    "score": 100
+  },
+  {
+    "id": 14,
+    "productName": "Cereal D",
+    "brand": "Demo Foods",
+    "category": "Breakfast Cereals",
+    "subCategory": "Muesli",
+    "nutrition": {
+      "calories": 390,
+      "sugar": 12,
+      "totalFat": 8,
+      "saturatedFat": 2,
+      "transFat": 0,
+      "protein": 10,
+      "carbohydrates": 68,
+      "sodium": 80
+    },
+    "ingredients": [
+      "Oats",
+      "Nuts",
+      "Dried fruit"
+    ],
+    "allergens": [
+      "Nuts"
+    ],
+    "score": 92
+  },
+  {
+    "id": 15,
+    "productName": "Cereal E",
+    "brand": "Demo Foods",
+    "category": "Breakfast Cereals",
+    "subCategory": "Bran",
+    "nutrition": {
+      "calories": 350,
+      "sugar": 6,
+      "totalFat": 4,
+      "saturatedFat": 1,
+      "transFat": 0,
+      "protein": 12,
+      "carbohydrates": 70,
+      "sodium": 120
+    },
+    "ingredients": [
+      "Wheat bran",
+      "Whole wheat"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 100
+  },
+  {
+    "id": 16,
+    "productName": "Chips A",
+    "brand": "Demo Foods",
+    "category": "Chips",
+    "subCategory": "Potato",
+    "nutrition": {
+      "calories": 540,
+      "sugar": 2,
+      "totalFat": 34,
+      "saturatedFat": 15,
+      "transFat": 0,
+      "protein": 6,
+      "carbohydrates": 52,
+      "sodium": 520
+    },
+    "ingredients": [
+      "Potato",
+      "Vegetable oil",
+      "Salt"
+    ],
+    "allergens": [],
+    "score": 75
+  },
+  {
+    "id": 17,
+    "productName": "Chips B",
+    "brand": "Demo Foods",
+    "category": "Chips",
+    "subCategory": "Masala",
+    "nutrition": {
+      "calories": 550,
+      "sugar": 3,
+      "totalFat": 35,
+      "saturatedFat": 16,
+      "transFat": 0,
+      "protein": 6,
+      "carbohydrates": 50,
+      "sodium": 650
+    },
+    "ingredients": [
+      "Potato",
+      "Vegetable oil",
+      "Spices",
+      "Salt"
+    ],
+    "allergens": [],
+    "score": 70
+  },
+  {
+    "id": 18,
+    "productName": "Chips C",
+    "brand": "Demo Foods",
+    "category": "Chips",
+    "subCategory": "Baked",
+    "nutrition": {
+      "calories": 470,
+      "sugar": 2,
+      "totalFat": 18,
+      "saturatedFat": 6,
+      "transFat": 0,
+      "protein": 7,
+      "carbohydrates": 65,
+      "sodium": 420
+    },
+    "ingredients": [
+      "Potato",
+      "Rice flour",
+      "Vegetable oil",
+      "Salt"
+    ],
+    "allergens": [],
+    "score": 88
+  },
+  {
+    "id": 19,
+    "productName": "Chips D",
+    "brand": "Demo Foods",
+    "category": "Chips",
+    "subCategory": "Multigrain",
+    "nutrition": {
+      "calories": 490,
+      "sugar": 3,
+      "totalFat": 22,
+      "saturatedFat": 7,
+      "transFat": 0,
+      "protein": 8,
+      "carbohydrates": 60,
+      "sodium": 390
+    },
+    "ingredients": [
+      "Corn",
+      "Millets",
+      "Vegetable oil",
+      "Salt"
+    ],
+    "allergens": [],
+    "score": 85
+  },
+  {
+    "id": 20,
+    "productName": "Chips E",
+    "brand": "Demo Foods",
+    "category": "Chips",
+    "subCategory": "Lentil",
+    "nutrition": {
+      "calories": 450,
+      "sugar": 2,
+      "totalFat": 16,
+      "saturatedFat": 5,
+      "transFat": 0,
+      "protein": 11,
+      "carbohydrates": 58,
+      "sodium": 350
+    },
+    "ingredients": [
+      "Lentil flour",
+      "Rice flour",
+      "Vegetable oil",
+      "Salt"
+    ],
+    "allergens": [],
+    "score": 93
+  },
+  {
+    "id": 21,
+    "productName": "Noodle A",
+    "brand": "Demo Foods",
+    "category": "Instant Noodles",
+    "subCategory": "Masala",
+    "nutrition": {
+      "calories": 450,
+      "sugar": 3,
+      "totalFat": 18,
+      "saturatedFat": 9,
+      "transFat": 0,
+      "protein": 9,
+      "carbohydrates": 60,
+      "sodium": 1250
+    },
+    "ingredients": [
+      "Wheat flour",
+      "Vegetable oil",
+      "Salt",
+      "Spices"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 77
+  },
+  {
+    "id": 22,
+    "productName": "Noodle B",
+    "brand": "Demo Foods",
+    "category": "Instant Noodles",
+    "subCategory": "Vegetable",
+    "nutrition": {
+      "calories": 430,
+      "sugar": 4,
+      "totalFat": 15,
+      "saturatedFat": 7,
+      "transFat": 0,
+      "protein": 10,
+      "carbohydrates": 62,
+      "sodium": 1050
+    },
+    "ingredients": [
+      "Wheat flour",
+      "Vegetable oil",
+      "Vegetables",
+      "Salt"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 82
+  },
+  {
+    "id": 23,
+    "productName": "Noodle C",
+    "brand": "Demo Foods",
+    "category": "Instant Noodles",
+    "subCategory": "Whole Wheat",
+    "nutrition": {
+      "calories": 410,
+      "sugar": 3,
+      "totalFat": 12,
+      "saturatedFat": 5,
+      "transFat": 0,
+      "protein": 11,
+      "carbohydrates": 60,
+      "sodium": 850
+    },
+    "ingredients": [
+      "Whole wheat flour",
+      "Vegetable oil",
+      "Spices",
+      "Salt"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 88
+  },
+  {
+    "id": 24,
+    "productName": "Noodle D",
+    "brand": "Demo Foods",
+    "category": "Instant Noodles",
+    "subCategory": "Oats",
+    "nutrition": {
+      "calories": 400,
+      "sugar": 2,
+      "totalFat": 11,
+      "saturatedFat": 4,
+      "transFat": 0,
+      "protein": 12,
+      "carbohydrates": 58,
+      "sodium": 780
+    },
+    "ingredients": [
+      "Oat flour",
+      "Wheat flour",
+      "Vegetable oil",
+      "Salt"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 91
+  },
+  {
+    "id": 25,
+    "productName": "Noodle E",
+    "brand": "Demo Foods",
+    "category": "Instant Noodles",
+    "subCategory": "Low Sodium",
+    "nutrition": {
+      "calories": 390,
+      "sugar": 2,
+      "totalFat": 10,
+      "saturatedFat": 4,
+      "transFat": 0,
+      "protein": 12,
+      "carbohydrates": 58,
+      "sodium": 500
+    },
+    "ingredients": [
+      "Wheat flour",
+      "Vegetable oil",
+      "Spices"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 96
+  },
+  {
+    "id": 26,
+    "productName": "Bread A",
+    "brand": "Demo Foods",
+    "category": "Bread",
+    "subCategory": "White",
+    "nutrition": {
+      "calories": 265,
+      "sugar": 5,
+      "totalFat": 3,
+      "saturatedFat": 1,
+      "transFat": 0,
+      "protein": 9,
+      "carbohydrates": 49,
+      "sodium": 430
+    },
+    "ingredients": [
+      "Refined wheat flour",
+      "Sugar",
+      "Vegetable oil",
+      "Salt"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 95
+  },
+  {
+    "id": 27,
+    "productName": "Bread B",
+    "brand": "Demo Foods",
+    "category": "Bread",
+    "subCategory": "Brown",
+    "nutrition": {
+      "calories": 250,
+      "sugar": 4,
+      "totalFat": 3,
+      "saturatedFat": 1,
+      "transFat": 0,
+      "protein": 10,
+      "carbohydrates": 45,
+      "sodium": 390
+    },
+    "ingredients": [
+      "Whole wheat flour",
+      "Sugar",
+      "Vegetable oil",
+      "Salt"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 97
+  },
+  {
+    "id": 28,
+    "productName": "Bread C",
+    "brand": "Demo Foods",
+    "category": "Bread",
+    "subCategory": "Whole Wheat",
+    "nutrition": {
+      "calories": 240,
+      "sugar": 3,
+      "totalFat": 2,
+      "saturatedFat": 1,
+      "transFat": 0,
+      "protein": 11,
+      "carbohydrates": 43,
+      "sodium": 350
+    },
+    "ingredients": [
+      "Whole wheat flour",
+      "Water",
+      "Yeast",
+      "Salt"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 100
+  },
+  {
+    "id": 29,
+    "productName": "Bread D",
+    "brand": "Demo Foods",
+    "category": "Bread",
+    "subCategory": "Multigrain",
+    "nutrition": {
+      "calories": 245,
+      "sugar": 4,
+      "totalFat": 4,
+      "saturatedFat": 1,
+      "transFat": 0,
+      "protein": 10,
+      "carbohydrates": 44,
+      "sodium": 330
+    },
+    "ingredients": [
+      "Whole grains",
+      "Seeds",
+      "Wheat flour",
+      "Salt"
+    ],
+    "allergens": [
+      "Wheat",
+      "Seeds"
+    ],
+    "score": 98
+  },
+  {
+    "id": 30,
+    "productName": "Bread E",
+    "brand": "Demo Foods",
+    "category": "Bread",
+    "subCategory": "High Fiber",
+    "nutrition": {
+      "calories": 235,
+      "sugar": 2,
+      "totalFat": 3,
+      "saturatedFat": 1,
+      "transFat": 0,
+      "protein": 12,
+      "carbohydrates": 40,
+      "sodium": 300
+    },
+    "ingredients": [
+      "Whole wheat flour",
+      "Oat fiber",
+      "Water",
+      "Yeast"
+    ],
+    "allergens": [
+      "Wheat"
+    ],
+    "score": 100
+  },
+  {
+    "id": 31,
+    "productName": "Soft Drink A",
+    "brand": "Demo Foods",
+    "category": "Soft Drinks",
+    "subCategory": "Cola",
+    "nutrition": {
+      "calories": 42,
+      "sugar": 10.5,
+      "totalFat": 0,
+      "saturatedFat": 0,
+      "transFat": 0,
+      "protein": 0,
+      "carbohydrates": 10.5,
+      "sodium": 15
+    },
+    "ingredients": [
+      "Carbonated water",
+      "Sugar",
+      "Acidity regulator",
+      "Flavor"
+    ],
+    "allergens": [],
+    "score": 89
+  },
+  {
+    "id": 32,
+    "productName": "Soft Drink B",
+    "brand": "Demo Foods",
+    "category": "Soft Drinks",
+    "subCategory": "Orange",
+    "nutrition": {
+      "calories": 45,
+      "sugar": 11,
+      "totalFat": 0,
+      "saturatedFat": 0,
+      "transFat": 0,
+      "protein": 0,
+      "carbohydrates": 11,
+      "sodium": 10
+    },
+    "ingredients": [
+      "Carbonated water",
+      "Sugar",
+      "Orange flavor"
+    ],
+    "allergens": [],
+    "score": 91
+  },
+  {
+    "id": 33,
+    "productName": "Soft Drink C",
+    "brand": "Demo Foods",
+    "category": "Soft Drinks",
+    "subCategory": "Lemon",
+    "nutrition": {
+      "calories": 40,
+      "sugar": 9.5,
+      "totalFat": 0,
+      "saturatedFat": 0,
+      "transFat": 0,
+      "protein": 0,
+      "carbohydrates": 10,
+      "sodium": 8
+    },
+    "ingredients": [
+      "Carbonated water",
+      "Sugar",
+      "Lemon flavor"
+    ],
+    "allergens": [],
+    "score": 92
+  },
+  {
+    "id": 34,
+    "productName": "Soft Drink D",
+    "brand": "Demo Foods",
+    "category": "Soft Drinks",
+    "subCategory": "Zero Sugar",
+    "nutrition": {
+      "calories": 1,
+      "sugar": 0,
+      "totalFat": 0,
+      "saturatedFat": 0,
+      "transFat": 0,
+      "protein": 0,
+      "carbohydrates": 0,
+      "sodium": 20
+    },
+    "ingredients": [
+      "Carbonated water",
+      "Sweetener",
+      "Acidity regulator"
+    ],
+    "allergens": [],
+    "score": 100
+  },
+  {
+    "id": 35,
+    "productName": "Soft Drink E",
+    "brand": "Demo Foods",
+    "category": "Soft Drinks",
+    "subCategory": "Light Cola",
+    "nutrition": {
+      "calories": 2,
+      "sugar": 0,
+      "totalFat": 0,
+      "saturatedFat": 0,
+      "transFat": 0,
+      "protein": 0,
+      "carbohydrates": 0,
+      "sodium": 18
+    },
+    "ingredients": [
+      "Carbonated water",
+      "Sweetener",
+      "Flavor"
+    ],
+    "allergens": [],
+    "score": 100
+  },
+  {
+    "id": 36,
+    "productName": "Fruit Drink A",
+    "brand": "Demo Foods",
+    "category": "Fruit Drinks",
+    "subCategory": "Mango",
+    "nutrition": {
+      "calories": 55,
+      "sugar": 12,
+      "totalFat": 0,
+      "saturatedFat": 0,
+      "transFat": 0,
+      "protein": 0,
+      "carbohydrates": 13,
+      "sodium": 15
+    },
+    "ingredients": [
+      "Water",
+      "Mango pulp",
+      "Sugar",
+      "Acidity regulator"
+    ],
+    "allergens": [],
+    "score": 88
+  },
+  {
+    "id": 37,
+    "productName": "Fruit Drink B",
+    "brand": "Demo Foods",
+    "category": "Fruit Drinks",
+    "subCategory": "Orange",
+    "nutrition": {
+      "calories": 48,
+      "sugar": 10,
+      "totalFat": 0,
+      "saturatedFat": 0,
+      "transFat": 0,
+      "protein": 0,
+      "carbohydrates": 12,
+      "sodium": 12
+    },
+    "ingredients": [
+      "Water",
+      "Orange juice",
+      "Sugar"
+    ],
+    "allergens": [],
+    "score": 92
+  },
+  {
+    "id": 38,
+    "productName": "Fruit Drink C",
+    "brand": "Demo Foods",
+    "category": "Fruit Drinks",
+    "subCategory": "Apple",
+    "nutrition": {
+      "calories": 46,
+      "sugar": 9,
+      "totalFat": 0,
+      "saturatedFat": 0,
+      "transFat": 0,
+      "protein": 0,
+      "carbohydrates": 11,
+      "sodium": 8
+    },
+    "ingredients": [
+      "Water",
+      "Apple juice",
+      "Sugar"
+    ],
+    "allergens": [],
+    "score": 93
+  },
+  {
+    "id": 39,
+    "productName": "Fruit Drink D",
+    "brand": "Demo Foods",
+    "category": "Fruit Drinks",
+    "subCategory": "Mixed Fruit",
+    "nutrition": {
+      "calories": 50,
+      "sugar": 11,
+      "totalFat": 0,
+      "saturatedFat": 0,
+      "transFat": 0,
+      "protein": 0,
+      "carbohydrates": 12,
+      "sodium": 10
+    },
+    "ingredients": [
+      "Water",
+      "Fruit pulp",
+      "Sugar"
+    ],
+    "allergens": [],
+    "score": 91
+  },
+  {
+    "id": 40,
+    "productName": "Fruit Drink E",
+    "brand": "Demo Foods",
+    "category": "Fruit Drinks",
+    "subCategory": "No Added Sugar",
+    "nutrition": {
+      "calories": 30,
+      "sugar": 6,
+      "totalFat": 0,
+      "saturatedFat": 0,
+      "transFat": 0,
+      "protein": 0,
+      "carbohydrates": 7,
+      "sodium": 5
+    },
+    "ingredients": [
+      "Water",
+      "Fruit juice"
+    ],
+    "allergens": [],
+    "score": 96
+  },
+  {
+    "id": 41,
+    "productName": "Snack A",
+    "brand": "Demo Foods",
+    "category": "Packaged Snacks",
+    "subCategory": "Namkeen",
+    "nutrition": {
+      "calories": 540,
+      "sugar": 3,
+      "totalFat": 35,
+      "saturatedFat": 15,
+      "transFat": 0,
+      "protein": 7,
+      "carbohydrates": 48,
+      "sodium": 800
+    },
+    "ingredients": [
+      "Gram flour",
+      "Vegetable oil",
+      "Salt",
+      "Spices"
+    ],
+    "allergens": [],
+    "score": 70
+  },
+  {
+    "id": 42,
+    "productName": "Snack B",
+    "brand": "Demo Foods",
+    "category": "Packaged Snacks",
+    "subCategory": "Roasted Chana",
+    "nutrition": {
+      "calories": 390,
+      "sugar": 4,
+      "totalFat": 10,
+      "saturatedFat": 2,
+      "transFat": 0,
+      "protein": 18,
+      "carbohydrates": 58,
+      "sodium": 300
+    },
+    "ingredients": [
+      "Roasted chickpeas",
+      "Salt",
+      "Spices"
+    ],
+    "allergens": [],
+    "score": 98
+  },
+  {
+    "id": 43,
+    "productName": "Snack C",
+    "brand": "Demo Foods",
+    "category": "Packaged Snacks",
+    "subCategory": "Peanut Mix",
+    "nutrition": {
+      "calories": 520,
+      "sugar": 5,
+      "totalFat": 38,
+      "saturatedFat": 7,
+      "transFat": 0,
+      "protein": 20,
+      "carbohydrates": 25,
+      "sodium": 280
+    },
+    "ingredients": [
+      "Peanuts",
+      "Chickpeas",
+      "Spices"
+    ],
+    "allergens": [
+      "Peanuts"
+    ],
+    "score": 85
+  },
+  {
+    "id": 44,
+    "productName": "Snack D",
+    "brand": "Demo Foods",
+    "category": "Packaged Snacks",
+    "subCategory": "Baked Snack",
+    "nutrition": {
+      "calories": 430,
+      "sugar": 4,
+      "totalFat": 14,
+      "saturatedFat": 4,
+      "transFat": 0,
+      "protein": 8,
+      "carbohydrates": 68,
+      "sodium": 450
+    },
+    "ingredients": [
+      "Rice flour",
+      "Gram flour",
+      "Vegetable oil",
+      "Salt"
+    ],
+    "allergens": [],
+    "score": 89
+  },
+  {
+    "id": 45,
+    "productName": "Snack E",
+    "brand": "Demo Foods",
+    "category": "Packaged Snacks",
+    "subCategory": "Roasted Makhana",
+    "nutrition": {
+      "calories": 370,
+      "sugar": 2,
+      "totalFat": 8,
+      "saturatedFat": 2,
+      "transFat": 0,
+      "protein": 10,
+      "carbohydrates": 65,
+      "sodium": 180
+    },
+    "ingredients": [
+      "Fox nuts",
+      "Vegetable oil",
+      "Salt"
+    ],
+    "allergens": [],
+    "score": 100
+  },
+  {
+    "id": 46,
+    "productName": "Chocolate A",
+    "brand": "Demo Foods",
+    "category": "Chocolate",
+    "subCategory": "Milk Chocolate",
+    "nutrition": {
+      "calories": 535,
+      "sugar": 52,
+      "totalFat": 30,
+      "saturatedFat": 18,
+      "transFat": 0,
+      "protein": 7,
+      "carbohydrates": 59,
+      "sodium": 70
+    },
+    "ingredients": [
+      "Sugar",
+      "Milk solids",
+      "Cocoa butter",
+      "Cocoa solids"
+    ],
+    "allergens": [
+      "Milk"
+    ],
+    "score": 54
+  },
+  {
+    "id": 47,
+    "productName": "Chocolate B",
+    "brand": "Demo Foods",
+    "category": "Chocolate",
+    "subCategory": "Dark Chocolate",
+    "nutrition": {
+      "calories": 580,
+      "sugar": 30,
+      "totalFat": 42,
+      "saturatedFat": 25,
+      "transFat": 0,
+      "protein": 8,
+      "carbohydrates": 46,
+      "sodium": 20
+    },
+    "ingredients": [
+      "Cocoa solids",
+      "Sugar",
+      "Cocoa butter"
+    ],
+    "allergens": [],
+    "score": 55
+  },
+  {
+    "id": 48,
+    "productName": "Chocolate C",
+    "brand": "Demo Foods",
+    "category": "Chocolate",
+    "subCategory": "70% Dark",
+    "nutrition": {
+      "calories": 590,
+      "sugar": 25,
+      "totalFat": 44,
+      "saturatedFat": 27,
+      "transFat": 0,
+      "protein": 9,
+      "carbohydrates": 45,
+      "sodium": 15
+    },
+    "ingredients": [
+      "Cocoa solids",
+      "Sugar",
+      "Cocoa butter"
+    ],
+    "allergens": [],
+    "score": 56
+  },
+  {
+    "id": 49,
+    "productName": "Chocolate D",
+    "brand": "Demo Foods",
+    "category": "Chocolate",
+    "subCategory": "Hazelnut",
+    "nutrition": {
+      "calories": 550,
+      "sugar": 48,
+      "totalFat": 34,
+      "saturatedFat": 15,
+      "transFat": 0,
+      "protein": 8,
+      "carbohydrates": 52,
+      "sodium": 65
+    },
+    "ingredients": [
+      "Sugar",
+      "Cocoa",
+      "Hazelnuts",
+      "Milk solids"
+    ],
+    "allergens": [
+      "Nuts",
+      "Milk"
+    ],
+    "score": 56
+  },
+  {
+    "id": 50,
+    "productName": "Chocolate E",
+    "brand": "Demo Foods",
+    "category": "Chocolate",
+    "subCategory": "Reduced Sugar",
+    "nutrition": {
+      "calories": 500,
+      "sugar": 28,
+      "totalFat": 29,
+      "saturatedFat": 17,
+      "transFat": 0,
+      "protein": 8,
+      "carbohydrates": 55,
+      "sodium": 50
+    },
+    "ingredients": [
+      "Cocoa solids",
+      "Milk solids",
+      "Sweetener"
+    ],
+    "allergens": [
+      "Milk"
+    ],
+    "score": 58
+  }
+]
